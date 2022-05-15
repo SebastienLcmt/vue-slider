@@ -1,5 +1,8 @@
 # vue-slider
 
+A simple slider using vue 3 new features
+
+
 ## Project setup
 ```
 npm install
